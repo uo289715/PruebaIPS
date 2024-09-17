@@ -13,8 +13,10 @@ package Prueba.Main;
  */
 public class Main {
 	
+
 	public static void main(String[] args) {
-		int j=19;
-		System.out.print(j);
+		int k=19;
+		System.out.print("El valor es " + k);
 	}
+	
 }
